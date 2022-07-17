@@ -1,0 +1,44 @@
+Proker 1 = 
+Proker 2 = 
+Proker 3 = 
+- Penganggung jawab utama semua ristek
+- Penganggung jawab proker Renaldi
+- bahasa php
+- framework codeigniter 4
+- framework css bootstrap 5
+- desain ui/ux dari kominfo
+
+Proker 4 
+- Penganggung jawab utama semua ristek
+- Penganggung jawab proker david
+- dari alumni
+- dari dosen
+- ristek bisa ngambil sendiri project nya dan ristek juga bisa sebagai penyalur ke mahasiswa
+- hasil pembagian 70% orang yang nerima project dan 30% himmi
+
+Proker 5
+- Penganggung jawab utama semua ristek
+- Penganggung jawab proker ridho
+- Tempat dikampus
+- Workshop temanya belajar php laravel
+
+Proker 6 
+- Penganggung jawab utama semua ristek
+- Penganggung jawab proker septian
+- Ngumpulin e-book
+- Ngumpulin website
+- Ngumpulin artikel
+
+Proker 7
+- Penganggung jawab utama semua ristek
+- Penganggung jawab proker cahyudin
+- lomba ngoding
+- desain website = adobe xd atau figma
+- desain ui/ux html dan css
+
+Proker 8 - Bikin Video Content Youtube 2 Minggu
+- Dari ristek
+- Minimal 1 video per 2 minggu 
+- Tentang Teknologi
+- Kerjasama dengan kominfo 
+- Tujuan pengisi video di youtube himmi
